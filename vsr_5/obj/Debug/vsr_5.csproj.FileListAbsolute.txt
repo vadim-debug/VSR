@@ -1,0 +1,7 @@
+D:\Project\VS\VSR2\vsr_5\obj\Debug\vsr_5.csproj.SuggestedBindingRedirects.cache
+D:\Project\VS\VSR2\vsr_5\obj\Debug\vsr_5.csproj.CoreCompileInputs.cache
+D:\Project\VS\VSR2\vsr_5\bin\Debug\vsr_5.exe.config
+D:\Project\VS\VSR2\vsr_5\bin\Debug\vsr_5.exe
+D:\Project\VS\VSR2\vsr_5\bin\Debug\vsr_5.pdb
+D:\Project\VS\VSR2\vsr_5\obj\Debug\vsr_5.exe
+D:\Project\VS\VSR2\vsr_5\obj\Debug\vsr_5.pdb

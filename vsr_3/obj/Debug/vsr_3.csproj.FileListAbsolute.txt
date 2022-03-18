@@ -1,0 +1,7 @@
+D:\Project\VS\VSR2\vsr_3\bin\Debug\vsr_3.exe.config
+D:\Project\VS\VSR2\vsr_3\bin\Debug\vsr_3.exe
+D:\Project\VS\VSR2\vsr_3\bin\Debug\vsr_3.pdb
+D:\Project\VS\VSR2\vsr_3\obj\Debug\vsr_3.csproj.SuggestedBindingRedirects.cache
+D:\Project\VS\VSR2\vsr_3\obj\Debug\vsr_3.csproj.CoreCompileInputs.cache
+D:\Project\VS\VSR2\vsr_3\obj\Debug\vsr_3.exe
+D:\Project\VS\VSR2\vsr_3\obj\Debug\vsr_3.pdb
